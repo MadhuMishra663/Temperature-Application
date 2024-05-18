@@ -1,0 +1,39 @@
+.box{
+    width:350px;
+    height:400px;
+    border: 1px solid black;
+    margin-block: 150px;
+    margin-inline: 500px;
+    background-color: #9fb7db;
+    background-image: url(https://cdn.pixabay.com/animation/2023/06/25/21/55/21-55-38-961_512.gif);
+ }
+ .inputfield{
+     width: 100px;
+     height: 40px;
+     border-radius: 20px;
+     margin-inline: 120px;
+     margin-block: 10px;
+ }
+ .temp{
+     display: flex;
+     align-items: center;
+ }
+ .showtemp{
+     color:white;
+     text-align: center;
+ }
+ .info{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     color: white;
+     
+ }
+ .temin-max{
+     text-align: center;
+     color: white;
+ }
+ .errorMessage{
+     text-align: center;
+     color: white;
+ }
